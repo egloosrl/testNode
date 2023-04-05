@@ -1,5 +1,5 @@
 class Loyalty {
-  // Qaundo un utente si registra, viene creato un oggetto Loyalty
+  // Quando un utente si registra, viene creato un oggetto Loyalty
   // in questo anno l'utente potrà accumulare punti.
   // Esistono degli scaglioni basati su una quantità di punti che permetto di ottenere dei sconti.
   // Per esempio poniamo che gli scaglioni siano:
