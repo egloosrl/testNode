@@ -14,3 +14,6 @@ Il file da cui partire è Loyalty.js, dove è già presente la class Loyalty che
 Nel file User.js è presente la class User che rappresenta un utente del sistema e richiama la class Loyalty in fase di registrazione.
 
 Le indicazioni speicifiche sono presenti nel file Loyalty.js.
+
+Piena libertà di creazione di nuovi file e di scrittura di nuove tabelle o dati nel database.
+Possibilmente non utilizzare librerie esterne.
