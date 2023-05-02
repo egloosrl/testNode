@@ -9,7 +9,7 @@ class User {
   }
 
   register() {
-    // ...validazione dati
+    // ...user data validation
 
     return new Promise((resolve, reject) => {
       if (!this.errors.length) {
@@ -32,7 +32,7 @@ class User {
               .then(res => {
                 this.data._id = res.insertedId
 
-                // Inizio anno loyalty utente
+                // Start loyalty program (year 1)
                 this.data.loyalty = new Loyalty(this.data)
 
                 resolve(this.data)
