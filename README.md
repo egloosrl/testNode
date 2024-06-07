@@ -1,4 +1,4 @@
-# Test Node.js - ITA
+# Test Node.js - ITA TEST
 
 Si tratta di un test di logica per l'impostazione di un sistema di loyalty utente.
 
